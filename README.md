@@ -7,4 +7,5 @@ To submit a talk, have a look a the [proposals/ folder](https://github.com/pdxsh
 Please also take the time to read over our [Code of Conduct](https://github.com/pdxsh/talks/blob/master/code-of-conduct.md)
 
 Thanks, 
+
 The PDXSH Crew
